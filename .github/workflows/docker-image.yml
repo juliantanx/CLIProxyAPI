@@ -6,8 +6,8 @@ on:
       - v*
 
 env:
-  APP_NAME: CLIProxyAPI
-  DOCKERHUB_REPO: eceasy/cli-proxy-api
+  APP_NAME: routerme
+  DOCKERHUB_REPO: juliantanx/routerme
 
 jobs:
   docker_amd64:
